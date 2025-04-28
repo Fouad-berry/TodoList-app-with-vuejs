@@ -27,3 +27,32 @@ npm run dev
 ```sh
 npm run build
 ```
+### 🏛️ Structure du projet
+
+src/
+├── components/        // Composants UI
+├── domain/            // Entités métier
+├── infrastructure/    // Accès aux données (localStorage)
+├── services/          // Logique d'application
+├── pages/             // Pages complètes
+├── App.vue            // Entrée principale
+└── main.js            // Bootstrap de Vue
+
+### ✨ Fonctionnalités
+
+    Ajouter une tâche ✅
+
+    Marquer une tâche comme faite ❌
+
+    Supprimer une tâche 🗑️
+
+    Persistance dans le localStorage 📦
+
+
+### 📚 Technologies utilisées
+
+    Vue 3
+
+    Vite
+
+    LocalStorage API
