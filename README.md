@@ -29,14 +29,14 @@ npm run build
 ```
 ### 🏛️ Structure du projet
 
-src/
-├── components/        // Composants UI
-├── domain/            // Entités métier
-├── infrastructure/    // Accès aux données (localStorage)
-├── services/          // Logique d'application
-├── pages/             // Pages complètes
-├── App.vue            // Entrée principale
-└── main.js            // Bootstrap de Vue
+    src/
+    ├── components/        // Composants UI
+    ├── domain/            // Entités métier
+    ├── infrastructure/    // Accès aux données (localStorage)
+    ├── services/          // Logique d'application
+    ├── pages/             // Pages complètes
+    ├── App.vue            // Entrée principale
+    └── main.js            // Bootstrap de Vue
 
 ### ✨ Fonctionnalités
 
