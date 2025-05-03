@@ -27,6 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
 ### 🏛️ Structure du projet
 
     src/
